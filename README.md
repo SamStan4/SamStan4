@@ -27,6 +27,9 @@ I am currently a second year computer science student here at WSU
 -->
 
 ## 🧑‍💻 Technologies that I use:
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 <!--
 [Visual Studio Community](https://visualstudio.microsoft.com/vs/community/)
 [Visual Studio Code](https://code.visualstudio.com/)
