@@ -27,9 +27,9 @@ I am currently a second year computer science student here at WSU
 -->
 
 ## 🧑‍💻 Technologies that I use:
-
+<!--
 [Visual Studio Community](https://visualstudio.microsoft.com/vs/community/)
 [Visual Studio Code](https://code.visualstudio.com/)
 [Ubuntu](https://ubuntu.com/)
 [macOS](https://www.apple.com/macos/)
-
+-->
