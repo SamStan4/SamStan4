@@ -25,3 +25,11 @@ I am currently a second year computer science student here at WSU
 ![RISC-V](https://img.shields.io/badge/risc--v-%23B90000.svg?style=for-the-badge&logo=risc-v&logoColor=white)
 ![MIPS](https://img.shields.io/badge/mips-%23B90000.svg?style=for-the-badge&logo=mips&logoColor=white)
 -->
+
+## 🧑‍💻 Technologies that I use:
+
+[Visual Studio Community](https://visualstudio.microsoft.com/vs/community/)
+[Visual Studio Code](https://code.visualstudio.com/)
+[Ubuntu](https://ubuntu.com/)
+[macOS](https://www.apple.com/macos/)
+
