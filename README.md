@@ -16,6 +16,8 @@ I am currently a junior level computer science student here at WSU
 
 ## My Stats
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samStan4&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 ![SamStan4's GitHub stats](https://github-readme-stats.vercel.app/api?username=samStan4&show_icons=true&theme=radical)
 -->
