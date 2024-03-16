@@ -13,3 +13,7 @@ I am currently a second year computer science student here at WSU
 ![Visual Studio Community](https://img.shields.io/badge/Visual%20Studio%20Community-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+
+## My Stats
+
+![SamStan4's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
