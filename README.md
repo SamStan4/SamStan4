@@ -12,7 +12,7 @@ I am currently a junior level computer science student here at WSU
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## 🧑‍💻 Technologies that I use:
+## 🧑‍💻 Technologies/Libraries that I use:
 
 ![PYEDA](https://img.shields.io/badge/PYEDA-007ACC?style=for-the-badge&logo=python&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -20,6 +20,7 @@ I am currently a junior level computer science student here at WSU
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![GHCi](https://img.shields.io/badge/GHCi-5E5086?style=for-the-badge&logo=haskell&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ## My Stats
 
