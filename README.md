@@ -8,6 +8,8 @@ I am currently a junior level computer science student here at WSU
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 [![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 ![MIPS](https://img.shields.io/badge/MIPS-007ACC?style=for-the-badge&logo=microchip&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Haskell](https://img.shields.io/badge/Haskell-5E5086?style=for-the-badge&logo=haskell&logoColor=white)
 
 ## 🧑‍💻 Technologies that I use:
 
