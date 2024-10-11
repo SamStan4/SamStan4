@@ -19,7 +19,7 @@ I am currently a junior level computer science student here at WSU
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![GHCi](https://img.shields.io/badge/GHCi-5E5086?style=for-the-badge&logo=haskell&logoColor=white)
-
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 ## My Stats
 
