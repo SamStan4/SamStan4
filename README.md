@@ -18,6 +18,7 @@ I am currently a junior level computer science student here at WSU
 ![Visual Studio Community](https://img.shields.io/badge/Visual%20Studio%20Community-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![GHCi](https://img.shields.io/badge/GHCi-5E5086?style=for-the-badge&logo=haskell&logoColor=white)
 
 
 ## My Stats
