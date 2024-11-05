@@ -1,6 +1,5 @@
 
-# > whoami
-# sam
+# > whoami <br/> sam
  
 I am currently a junior level computer science student here at WSU
 
