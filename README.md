@@ -1,5 +1,6 @@
 
-# Hi there 👋, I'm Sam
+# > whoami
+# sam
  
 I am currently a junior level computer science student here at WSU
 
