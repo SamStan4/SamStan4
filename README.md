@@ -1,4 +1,6 @@
-# > whoami <br/> sam
+# > whoami
+
+sam
  
 I am currently a senior level computer science student here at WSU
 
