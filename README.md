@@ -1,6 +1,6 @@
 # > whoami
 
-sam
+# sam
  
 I am currently a senior level computer science student here at WSU
 
