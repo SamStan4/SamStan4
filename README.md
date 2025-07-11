@@ -1,6 +1,7 @@
 # > whoami </br> sam
  
-I am currently a senior level computer science student here at WSU
+- Software Engineer
+- Washington State University Computer Science Alumni
 
 ## Languages:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
