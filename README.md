@@ -32,4 +32,6 @@ I am currently a senior level computer science student here at WSU
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samStan4&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+## Data Structures and Algorithms
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Samuel_stanley?theme=dark&font=ubuntu&ext=heatmap)
