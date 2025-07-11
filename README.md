@@ -15,7 +15,7 @@
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-## 🧑‍💻 Technologies/Libraries that I use:
+## Technologies/Libraries that I use:
 
 ![PYEDA](https://img.shields.io/badge/PYEDA-007ACC?style=for-the-badge&logo=python&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -29,7 +29,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-## My Stats
+## Programming Language Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samStan4&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
