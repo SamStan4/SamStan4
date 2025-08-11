@@ -1,6 +1,6 @@
 # > whoami </br> sam
  
-- Software Engineer :-)
+- Software Engineer
 - Washington State University Computer Science Alumni
 
 ## Languages:
