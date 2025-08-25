@@ -33,6 +33,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samStan4&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-## Data Structures and Algorithms
+## Other Cool Stats :-)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Samuel_stanley?theme=dark&font=ubuntu&ext=heatmap)
